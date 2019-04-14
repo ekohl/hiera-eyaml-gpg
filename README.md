@@ -45,6 +45,11 @@ should probably acquaint yourself with at https://github.com/TomPoulton/hiera-ey
 Note that in order to install the gpgme gem you'll need to have the ruby development package installed
 for your distribution.
 
+Puppet versions
+---------------
+
+This is meant to work with Puppet >= 5.5.8.
+
 How to use
 ----------
 
